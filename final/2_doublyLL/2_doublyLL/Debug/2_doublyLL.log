@@ -1,0 +1,16 @@
+﻿Build started 4/25/2014 2:24:03.
+     1>Project "C:\Users\xkl\Documents\Visual Studio 2010\Projects\2_doublyLL\2_doublyLL\2_doublyLL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\2_doublyLL.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Node.cpp main.cpp
+         main.cpp
+     1>c:\users\xkl\documents\visual studio 2010\projects\2_doublyll\2_doublyll\node.h(37): fatal error C1071: unexpected end of file found in comment
+         Node.cpp
+     1>c:\users\xkl\documents\visual studio 2010\projects\2_doublyll\2_doublyll\node.h(37): fatal error C1071: unexpected end of file found in comment
+         Generating Code...
+     1>Done Building Project "C:\Users\xkl\Documents\Visual Studio 2010\Projects\2_doublyLL\2_doublyLL\2_doublyLL.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.73
